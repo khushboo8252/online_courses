@@ -31,7 +31,7 @@ const steps = [
 
 const Works = () => {
   return (
-    <section className="bg-blue-900 text-white py-16 px-4 sm:px-10 rounded-t-[2rem] relative">
+    <section className="bg-black mt-10 text-white py-16 px-4 sm:px-10 rounded-t-[2rem] relative">
       {/* Title */}
       <div className="flex justify-center mb-10">
         <div className="bg-blue-600 text-white px-6 py-2 text-lg font-bold rounded-md shadow-md">
