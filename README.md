@@ -7,18 +7,18 @@ A full-stack web application built with the **MERN stack** (MongoDB, Express.js,
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home Screenshot](![Screenshot (820)](https://github.com/user-attachments/assets/8dce3555-a007-442f-b9a0-80f95eca94ff)
+(![Screenshot (820)](https://github.com/user-attachments/assets/8dce3555-a007-442f-b9a0-80f95eca94ff)
 )
 
 ### 📚 Courses Page
-![Courses Screenshot](![Screenshot (821)](https://github.com/user-attachments/assets/4ca4b79e-960c-449b-aeba-2aa98be9027e)
+(![Screenshot (821)](https://github.com/user-attachments/assets/4ca4b79e-960c-449b-aeba-2aa98be9027e)
 )
 ### 📚 Blog Page
-![Blog Screenshot](![Screenshot (822)](https://github.com/user-attachments/assets/24084990-8735-4960-9175-f25e1e8ec421)
+(![Screenshot (822)](https://github.com/user-attachments/assets/24084990-8735-4960-9175-f25e1e8ec421)
 )
 
 ### 🔐 Signup/Login Page
-![Auth Screenshot](![Screenshot (823)](https://github.com/user-attachments/assets/cc11f79d-cde4-48ed-b739-ccd72160914f)
+(![Screenshot (823)](https://github.com/user-attachments/assets/cc11f79d-cde4-48ed-b739-ccd72160914f)
 )
 
 ---
